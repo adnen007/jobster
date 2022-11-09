@@ -1,6 +1,6 @@
 # jobster
 
-a simple website that I made it to organise the list of jobs that I have applied on them
+a simple website builded with react 18.  I made it to organise the list of jobs that I have applied on them
 
 it is so simple and so organised.
 
